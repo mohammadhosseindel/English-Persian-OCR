@@ -1,6 +1,6 @@
 This Is an OCR Project For Extracting English & Persian Text From Image
 
-We Use Pytesseract Software For Reconition Text
+We Use Pytesseract Software For Recognition Text
 
 First You Should Install Pytesseract Software With The Link Below :
 
